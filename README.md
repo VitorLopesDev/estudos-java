@@ -1,6 +1,6 @@
-# Projeto de Gerenciamento de Reservas
+# Atividade de Gerenciamento de Reservas
 
-Este projeto tem como objetivo gerenciar reservas de hotel, permitindo a adição, remoção e consulta de reservas.
+Este código tem como objetivo gerenciar reservas de hotel, permitindo a adição, remoção e consulta de reservas.
 
 ## Funcionalidades
 - Adicionar reservas
